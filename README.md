@@ -3,4 +3,4 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Swift/Objective-C
 - 📝 About me: [Blog](https://yilin.tw)
-- 📫 How to reach me: [Mail](mailto:contact@yilin.tw)/[Telegram](https://t.me/sdf0822)
+- 📫 How to reach me: [Mail](mailto:chuang@yilin.tw)/[Telegram](https://t.me/sdf0822)
